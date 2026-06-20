@@ -1,5 +1,5 @@
 n = int(input("Enter number:  "))
 if n % 2 == 0:
-    print("Even")
+    print(n,"Even")
 else:
-    print("Odd")
+    print(n,"Odd")
